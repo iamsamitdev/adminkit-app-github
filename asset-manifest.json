@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/adminkit-app-github/static/css/main.1fd62344.chunk.css",
+    "main.js": "/adminkit-app-github/static/js/main.43ebfaac.chunk.js",
+    "main.js.map": "/adminkit-app-github/static/js/main.43ebfaac.chunk.js.map",
+    "runtime-main.js": "/adminkit-app-github/static/js/runtime-main.2debf904.js",
+    "runtime-main.js.map": "/adminkit-app-github/static/js/runtime-main.2debf904.js.map",
+    "static/js/2.6a10c091.chunk.js": "/adminkit-app-github/static/js/2.6a10c091.chunk.js",
+    "static/js/2.6a10c091.chunk.js.map": "/adminkit-app-github/static/js/2.6a10c091.chunk.js.map",
+    "index.html": "/adminkit-app-github/index.html",
+    "static/css/main.1fd62344.chunk.css.map": "/adminkit-app-github/static/css/main.1fd62344.chunk.css.map",
+    "static/js/2.6a10c091.chunk.js.LICENSE.txt": "/adminkit-app-github/static/js/2.6a10c091.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/adminkit-app-github/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2debf904.js",
+    "static/js/2.6a10c091.chunk.js",
+    "static/css/main.1fd62344.chunk.css",
+    "static/js/main.43ebfaac.chunk.js"
+  ]
+}
