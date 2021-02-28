@@ -1,4 +1,4 @@
-import {BrowserRouter, Route, Switch } from 'react-router-dom'
+import {HashRouter, Route, Switch } from 'react-router-dom'
 import AuthLayout from './components/layouts/auth/AuthLayout'
 import BackendLayout from './components/layouts/backend/BackendLayout'
 import Dashboard from './pages/backend/dashboard/Dashboard'
@@ -18,7 +18,7 @@ const Routes = () => {
 
     return (
 
-        <BrowserRouter>
+        <HashRouter basename={'/adminkit-app-github'}>
 
             <Switch>
 
@@ -38,7 +38,7 @@ const Routes = () => {
 
             </Switch>
 
-        </BrowserRouter>
+        </HashRouter>
 
     )
 }
